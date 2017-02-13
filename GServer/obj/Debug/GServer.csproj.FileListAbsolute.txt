@@ -1,0 +1,9 @@
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\bin\Debug\GServer.exe.config
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\bin\Debug\GServer.exe
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\bin\Debug\GServer.pdb
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\obj\Debug\GServer.csprojResolveAssemblyReference.cache
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\obj\Debug\GServer.Form1.resources
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\obj\Debug\GServer.Properties.Resources.resources
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\obj\Debug\GServer.csproj.GenerateResource.Cache
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\obj\Debug\GServer.exe
+c:\users\draobrehtom\documents\visual studio 2015\Projects\GServer\GServer\obj\Debug\GServer.pdb
